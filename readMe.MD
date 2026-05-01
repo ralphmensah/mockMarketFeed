@@ -10,7 +10,7 @@ GET ``/api/v1/prices/{ticker}`` (Returns a single JSON object with the current p
 Allowed 10 HTTP requests per minute.
 
 ### Pro Users (Algorithmic Traders): 
-Allowed 1,000 HTTP requests per second.
+Allowed 100 HTTP requests per second.
 
 ### Scale: 
 Assume the system handles 50,000 requests per second globally across all users.

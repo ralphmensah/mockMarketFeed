@@ -2,7 +2,7 @@
 
 ### The Endpoints:
 
-GET ``/api/v1/prices/{ticker}`` (Returns a single JSON object with the current price of an asset, like "BTC-USDT").
+GET ``/api/v1/prices/{ticker}`` (Returns a single JSON object with the current price of an asset, like "BTCUSDT").
 
 ### The Traffic & Tiers:
 
